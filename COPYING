@@ -1,0 +1,9 @@
+Three files in this repository contain source taken from the Qt-Components sources. These are:
+auimdialogstatus.h
+auimpageorientation.h
+auimpagestatus.h
+
+These files are copyright Nokia Corporation, and are licensed under the BSD License as stated at the top of each of these files.
+
+All other source code in this repository is licensed under the GPL Version 3  29h June 2007
+http://www.gnu.org/licenses/gpl.html
