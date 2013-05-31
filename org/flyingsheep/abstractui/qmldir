@@ -6,9 +6,11 @@ AUIButtonStyle 1.0 AUIButtonStyle.qml
 AUICheckBoxStyle 1.0 AUICheckBoxStyle.qml
 AUIDialog 1.0 AUIDialog.qml
 AUIMenu 1.0 AUIMenu.qml
+AUIMenuAction 1.0 AUIMenuAction.qml
 AUIMenuItem 1.0 AUIMenuItem.qml
 AUIMenuLayout 1.0 AUIMenuLayout.qml
 AUIPage 1.0 AUIPage.qml
+AUIPageWithMenu 1.0 AUIPageWithMenu.qml
 AUIPageStackWindow 1.0 AUIPageStackWindow.qml
 AUIQueryDialog 1.0 AUIQueryDialog.qml
 AUIRadioButton 1.0 AUIRadioButton.qml
@@ -19,3 +21,4 @@ AUIToolBarLayout 1.0 AUIToolBarLayout.qml
 AUIToolButton 1.0 AUIToolButton.qml
 AUIToolIcon 1.0 AUIToolIcon.qml
 # typeinfo plugins.qmltypes
+
