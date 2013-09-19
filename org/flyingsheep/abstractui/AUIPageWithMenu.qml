@@ -5,7 +5,7 @@ import com.nokia.meego 1.0
 Page {
     id: thisPage
     property int orientationLock: PageOrientation.Automatic
-    property bool hasMenu: menuitems.length > 0
+
     property alias menuitems: menuModel.children
 
     //MENU HANDLING
@@ -58,6 +58,13 @@ Page {
             }
         }
     }
+
+    property int hasMenu: (menuitems.length > 0) ? 1 : 0
+    //TODO Add a C++ enum for these values
+    //0: no menu
+    //1: Harmattan style toolbar pullup Menu
+    //2: Sailfish PullDownMenu
+    //3: Sailfish PushUpMenu
 
 }
 

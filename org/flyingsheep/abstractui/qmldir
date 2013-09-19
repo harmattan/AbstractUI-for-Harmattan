@@ -3,8 +3,13 @@ AUIButton 1.0 AUIButton.qml
 AUIButtonColumn 1.0 AUIButtonColumn.qml
 AUIButtonRow 1.0 AUIButtonRow.qml
 AUIButtonStyle 1.0 AUIButtonStyle.qml
+AUIGreenButtonStyle 1.0 AUIGreenButtonStyle.qml
+AUIGreyButtonStyle 1.0 AUIGreyButtonStyle.qml
+AUIRedButtonStyle 1.0 AUIRedButtonStyle.qml
+AUICheckBox 1.0 AUICheckBox.qml
 AUICheckBoxStyle 1.0 AUICheckBoxStyle.qml
 AUIDialog 1.0 AUIDialog.qml
+AUILabel 1.0 AUILabel.qml
 AUIMenu 1.0 AUIMenu.qml
 AUIMenuAction 1.0 AUIMenuAction.qml
 AUIMenuItem 1.0 AUIMenuItem.qml
