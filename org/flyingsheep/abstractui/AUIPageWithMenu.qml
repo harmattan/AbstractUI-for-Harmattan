@@ -6,6 +6,13 @@ Page {
     id: thisPage
     property int orientationLock: PageOrientation.Automatic
 
+    property color backgroundColor: "white"
+    AUIBackgroundRectangle {
+        anchors.fill: parent
+        color: parent.backgroundColor
+        z: -9999
+    }
+
     property alias menuitems: menuModel.children
 
     //MENU HANDLING

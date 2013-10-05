@@ -20,6 +20,7 @@ AUIPageStackWindow 1.0 AUIPageStackWindow.qml
 AUIQueryDialog 1.0 AUIQueryDialog.qml
 AUIRadioButton 1.0 AUIRadioButton.qml
 AUISheet 1.0 AUISheet.qml
+AUISwitch 1.0 AUISwitch.qml
 AUITabButton 1.0 AUITabButton.qml
 AUITabGroup 1.0 AUITabGroup.qml
 AUIToolBarLayout 1.0 AUIToolBarLayout.qml

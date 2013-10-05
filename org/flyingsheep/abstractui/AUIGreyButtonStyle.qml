@@ -4,8 +4,8 @@ import org.flyingsheep.abstractui 1.0
 //import com.nokia.meego 1.0
 
 AUIButtonStyle {
-    background: "image://theme/meegotouch-button"+__invertedString+"-background";
+    background: "image://theme/meegotouch-button-inverted-background"
     pressedBackground: "image://theme/meegotouch-button"+__invertedString+"-background-pressed";
     disabledBackground: "image://theme/meegotouch-button"+__invertedString+"-background-disabled";
-    textColor: "White"
+    textColor: "white"
 }

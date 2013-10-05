@@ -6,7 +6,8 @@ import org.flyingsheep.abstractui 1.0
 AUIButtonStyle {
     //background: "image://theme/color2-meegotouch-button-accent-background"+(position?"-"+position:"");
     //background: "image://theme/color2-meegotouch-button-accent-background-pressed";
-    background: "image://theme/meegotouch-button-positive"+__invertedString+"-background";
+    //background: "image://theme/meegotouch-button-positive"+__invertedString+"-background";
+    background: "image://theme/color2-meegotouch-button-inverted-background-pressed";
     pressedBackground: "image://theme/meegotouch-button-positive"+__invertedString+"-background-pressed";
     textColor: "White"
 }

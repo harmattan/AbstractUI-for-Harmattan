@@ -6,5 +6,5 @@ import QtQuick 1.1
 //For Sailfish this is transparent, giving the required glassy look
 
 Rectangle {
-    color: "black"
+    color: "lightgrey"
 }
