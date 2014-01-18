@@ -1,0 +1,15 @@
+plugin abstractuibackend
+AUICompass 1.0 AUICompass.qml
+AUIContact 1.0 AUIContact.qml
+AUIContactDetail 1.0 AUIContactDetail.qml
+DisplayLabel 1.0 DisplayLabel.qml
+AUIContactModel 1.0 AUIContactModel.qml
+Name 1.0 Name.qml
+AUIContactSortOrder 1.0 AUIContactSortOrder.qml
+AUICoordinate 1.0 AUICoordinate.qml
+AUIDetailFilter 1.0 AUIDetailFilter.qml
+AUIDisplayLabel 1.0 AUIDisplayLabel.qml
+AUIHapticsEffect 1.0 AUIHapticsEffect.qml
+AUIPositionSource 1.0 AUIPositionSource.qml
+AUISoundEffect 1.0 AUISoundEffect.qml
+AUIUnionFilter 1.0 AUIUnionFilter.qml

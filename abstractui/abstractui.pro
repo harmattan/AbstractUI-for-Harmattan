@@ -22,7 +22,22 @@ HEADERS += \
 # ln -s ../org/flyingsheep/abstractui/ auiqmls
 
 OTHER_FILES = $$PWD/auiqmls/*.qml \
-    qmldir
+    qmldir \
+    auiqmls/AUICheckBox.qml \
+    auiqmls/AUILabel.qml \
+    auiqmls/AUIBackgroundRectangle.qml \
+    auiqmls/AUIHighlightRectangle.qml \
+    auiqmls/AUIRedButtonStyle.qml \
+    auiqmls/AUIGreenButtonStyle.qml \
+    auiqmls/AUIWhiteButtonStyle.qml \
+    auiqmls/AUIYellowButtonStyle.qml \
+    auiqmls/AUIGreyButtonStyle.qml \
+    auiqmls/AUITransparentButtonStyle.qml \
+    auiqmls/AUISwitch.qml \
+    auiqmls/AUISelectionDialog.qml \
+    ../org/flyingsheep/abstractui/backend/AUICoordinate.qml \
+    auiqmls/backend/AUIPositionSource.qml \
+    auiqmls/AUIScrollDecorator.qml
 
 
 

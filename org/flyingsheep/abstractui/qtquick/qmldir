@@ -1,0 +1,13 @@
+plugin abstractuiqtquick
+Column 1.0 Column.qml
+Component 1.0 Component.qml
+Flickable 1.0 Flickable.qml
+Image 1.0 Image.qml
+Item 1.0 Item.qml
+MouseArea 1.0 MouseArea.qml
+Property 1.0 Property.qml
+PropertyChanges 1.0 PropertyChanges.qml
+Rectangle 1.0 Rectangle.qml
+Row 1.0 Row.qml
+State 1.0 State.qml
+Text 1.0 Text.qml

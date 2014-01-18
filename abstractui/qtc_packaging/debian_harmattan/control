@@ -1,0 +1,21 @@
+Source: abstractui
+Section: user/other
+Priority: optional
+Maintainer: unknown <christopherlamb@unknown>
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: abstractui
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+XSBC-Maemo-Display-Name: abstractui
+XB-Maemo-Flags: visible
+XB-MeeGo-Desktop-Entry-Filename: abstractui_harmattan
+XB-MeeGo-Desktop-Entry: 
+ [Desktop Entry]
+ Type=Application
+ Name=abstractui
+ Icon=/usr/share/icons/hicolor/80x80/apps/abstractui80.png
